@@ -1,4 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoka-miy&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoka-miy
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
