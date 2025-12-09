@@ -1,2 +1,2 @@
-![GitHub Stats](github-readme-stats-miya.vercel.app)
+![GitHub Stats](github-readme-stats-miya.vercel.app/api?username=kyoka-miy)
 
